@@ -1,0 +1,24 @@
+# 示例模板文件
+
+此占位符表示模板文件的存储位置。
+将其替换为实际的模板文件（模板、图像、字体等），如果不需要则将其删除。
+
+模板文件不打算加载到上下文中，而是用于
+Smartbi 白泽 生成的输出中。
+
+其他技能中的示例模板文件：
+- 品牌指南：logo.png, slides_template.pptx
+- 前端构建器：带有 HTML/React 样板的 hello-world/ 目录
+- 排版：custom-font.ttf, font-family.woff2
+- 数据：sample_data.csv, test_dataset.json
+
+## 常见的模板类型
+
+- 模板：.pptx, .docx, 样板目录
+- 图像：.png, .jpg, .svg, .gif
+- 字体：.ttf, .otf, .woff, .woff2
+- 样板代码：项目目录，启动文件
+- 图标：.ico, .svg
+- 数据文件：.csv, .json, .xml, .yaml
+
+注意：这是一个文本占位符。实际模板可以是任何文件类型。
